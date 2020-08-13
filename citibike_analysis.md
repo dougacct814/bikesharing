@@ -19,6 +19,7 @@ Des Moines Gender Diversity (percentage):
  
  Effect:  Male riders were much higher in the citi bike ride data, and with Des Moines projecting a 1% increase in Male gender, it could lead to an increase, or similar success in rider percentage.  Oue research also determined that there are a significant amount of trails in Des Moines and an active rider population (https://www.traillink.com/city/des-moines-ia-trails/)
 
+![Des Moines Trails](https://github.com/dougacct814/bikesharing/blob/master/Trails.PNG)
 
 ### References
 
